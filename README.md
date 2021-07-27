@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Tyler4God
+- 👀 I’m interested in Making emulation complete 'online'. (basically netplay, GBA/Gamecube compatibility, etc.
+- 🌱 I’m currently learning nothing.
+- 💞️ I’m looking to collaborate on anything that doesnt require C#.
+- 📫 How to reach me in my github notificaations, or discord. (Tybo777#7857)
